@@ -4,5 +4,5 @@ This is a program which is created by using Java programming language to impleme
 
 In the system you will be able to record details of 100 members maximum. 
 
-Programming Language :- Java
-Used IDE :- Intellij Idea
+* Programming Language :- Java
+* Used IDE :- Intellij Idea
